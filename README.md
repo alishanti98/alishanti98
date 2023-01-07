@@ -3,17 +3,11 @@
  <h2 align='center'>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+JavaScript+Developer&center=true&width=500&height=50"></a>
  </h2>
- 
- 
-I am a Full Stack JavaScript Developer with experience in technologies such as
-PostgreSQL, Express.js, React.js, and Node.js. I have a strong foundation in developing web applications and am skilled in using these technologies to build scalable and efficient applications. Whether working with a SQL database like PostgreSQL, or building a server with Node.js and Express.js, I'm comfortable working across the full package. Always looking to learn and grow as a developer, I am excited to continue building my skills and expanding my knowledge.
 
 
-<h2></h2>
 
-* ✉️  You can contact me at [alialshanti90@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
+* ✉️  You can contact me at [alialshanti90@gmail.com](mailto:alialshanti90@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript Project
-* ⚡  I'm passionate about software development
 * 🌱  I've been working on building new projects to add to my [Portfolio](https://google/)
 * 🔭  Look at my <a href="https://docs.google.com/document/d/1f4wYAnQIIoS5iRwRK76RGWqyvY4R0ewtv-QDXmPfw6k/edit?usp=sharing">CV</a> if you are interested in knowing more about me.
 
