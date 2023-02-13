@@ -7,7 +7,7 @@
 * ✨ Full-Stack Web Developer.
 * 👨‍  Career Accelerator Program - Code Academy Graduate
 * 🤝  I'm open to collaborating on JavaScript Project
-* 🌱  I've been working on building new projects to add to my [Portfolio]([https://google/](https://transcendent-unicorn-52c8b3.netlify.app/))
+* 🌱  I've been working on building new projects to add to my <a href="https://transcendent-unicorn-52c8b3.netlify.app/" target="_blank">Portfolio</a>
 * 🔭  Look at my <a href="https://docs.google.com/document/d/1f4wYAnQIIoS5iRwRK76RGWqyvY4R0ewtv-QDXmPfw6k/edit?usp=sharing">CV</a> if you are interested in knowing more about me.
 * ✉️  You can contact me at [alialshanti90@gmail.com](mailto:alialshanti90@gmail.com)
 
